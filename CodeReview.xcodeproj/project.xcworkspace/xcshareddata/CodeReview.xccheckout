@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8B1A505-A018-4805-BE60-089748B60659</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CodeReview</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7F635A74-D4F2-4E2B-8B2A-4D0AA5CD8F4E</key>
+		<string>https://github.com/kgb16/CodeReview.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CodeReview.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7F635A74-D4F2-4E2B-8B2A-4D0AA5CD8F4E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kgb16/CodeReview.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F635A74-D4F2-4E2B-8B2A-4D0AA5CD8F4E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F635A74-D4F2-4E2B-8B2A-4D0AA5CD8F4E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CodeReview</string>
+		</dict>
+	</array>
+</dict>
+</plist>
